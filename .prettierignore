@@ -6,3 +6,4 @@ coverage/
 .cache/
 
 __generated__/
+secrets.hidden.json
